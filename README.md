@@ -7,7 +7,7 @@ Program Python sederhana ini digunakan untuk menghitung total pendapatan hasil p
 1. Pastikan Python sudah terinstal di perangkat Anda.
 2. Unduh atau *clone* repositori ini:
    ```bash
-   git clone [https://github.com/username-kamu/sistem-panen-azizah.git](https://github.com/username-kamu/sistem-panen-azizah.git)
+   git clone [https://github.com/moonhazeez/sistem-panen-ttsziza.git](https://github.com/moonhazeez/sistem-panen-ttsziza.git)
 
    Bash
 cd sistem-panen-ttsziza
